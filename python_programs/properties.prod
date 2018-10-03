@@ -1,0 +1,17 @@
+database_flx,FLEX
+database_vfh,VFH
+log_folder,D:\COW\WPA\VFH\UPLOAD\LOG\
+oracle_password,jabberwocky
+oracle_port,1521
+oracle_server_name,COWSVPODB210
+oracle_services,coworp16
+oracle_user,FLEXADMIN
+root_folder_etl,D:\Vehicles for Hire\UPLOAD\ETL_FILE_NAME\
+root_folder_gen,D:\Vehicles for Hire\UPLOAD\GEN_EASY\
+root_folder_source,D:\COW\WPA\VFH\UPLOAD\WEB\
+root_folder_success_driver,D:\Vehicles for Hire\UPLOAD\SUCCESS\DRIVER\
+root_folder_success_trip,D:\Vehicles for Hire\UPLOAD\SUCCESS\TRIP\
+root_folder_success_vehicle,D:\Vehicles for Hire\UPLOAD\SUCCESS\VEHICLE\
+root_folder_target,D:\Vehicles for Hire\UPLOAD\CSV\
+root_folder_upload,D:\COW\WPA\VFH\UPLOAD\WEB\
+sql_server_connect_string,DSN=VFH_PROD
